@@ -1,0 +1,449 @@
+\subsection{butterfly16x16Simulation.py}
+\begin{lstlisting}[language=Python]
+#!/usr/bin/env python
+import os
+import subprocess
+from inputGen import generateInputs
+from inputGen import generateW
+
+#from dataConversion import convertToInt
+from dataConversion import convertTo2C
+
+from computeFFT import computeFFT
+
+
+
+wFloat = "wFloat.txt"
+#da commentare se si usano gli esempi del professore
+inputFloat = "butterfly16x16FloatData.txt"
+#da commentare se si usano gli input casuale
+#inputFloat = "esempiZamboni.txt"
+
+w2C = "butterflyW.txt"
+input2C = "butterfly16x16InputData.txt"
+
+resTb = "butterfly16x16TbResults.txt"
+resTbFloat = "butterfly16x16fftFloatResults.txt"
+log = "log16x16.txt"
+resFloat = "butterfly16x16tbFloatResults.txt"
+
+#generazione dei file di input
+
+#questa riga serve per il test col metodo Montecarlo
+#da commentare se si usano gli esempi del professore
+generateInputs(inputFloat,"random")
+generateW(wFloat)
+
+#conversione dei valori da float a binario complemento a 2
+
+convertTo2C(wFloat, w2C)
+convertTo2C(inputFloat, input2C)
+
+
+#compliazione dei listati vhdl ed avvio del testbench
+
+# Setting up environement variables
+os.environ["PATH"] += os.pathsep + "/software/mentor/modelsim_6.5c/modeltech/linux_x86_64/"
+os.environ["LM_LICENSE_FILE"] = "1717@led-x3850-1.polito.it"
+
+# Print out environement variables
+os.system("echo $PATH")
+os.system("echo $LM_LICENSE_FILE")
+
+# Launch Modelsim simulation
+print ("Starting simulation...")
+process = subprocess.call(["vsim", "-c", "-do", "compile.do"])
+print ("Simulation completed")
+
+#calcolo dei risultati attesi ed analisi degli errori
+
+computeFFT(inputFloat, resTb, log,resFloat,resTbFloat)
+
+ext = input('premi per uscire')\end{lstlisting}\subsection{butterflySimulation.py}
+\begin{lstlisting}[language=Python]
+import os
+import subprocess
+
+from inputGen import generateCouples
+from inputGen import generateW
+
+from dataConversion import convertTo2C
+
+from computeSingle import computeSingle
+
+inputFloatReal = "butterflyFloatRealData.txt"
+inputFloatImag = "butterflyFloatImagData.txt"
+
+wFloat = "wFloat.txt"
+
+#generazione dei file diinput
+
+generateCouples(inputFloatReal,2)
+generateCouples(inputFloatImag,2)
+generateW(wFloat)
+
+#conversione dei valori float in complemento a 2
+
+input2CR = "butterflyInputRealData.txt"
+input2CI = "butterflyInputImagData.txt"
+w2C = "butterflyW.txt"
+
+convertTo2C(wFloat, w2C)
+convertTo2C(inputFloatReal, input2CR)
+convertTo2C(inputFloatImag, input2CI)
+
+resTb = "butterflyTbResults.txt"
+
+#compilazione dei listati vhdl ed avvio del testbench
+
+# Setting up environement variables
+os.environ["PATH"] += os.pathsep + "/software/mentor/modelsim_6.5c/modeltech/linux_x86_64/"
+os.environ["LM_LICENSE_FILE"] = "1717@led-x3850-1.polito.it"
+
+# Print out environement variables
+os.system("echo $PATH")
+os.system("echo $LM_LICENSE_FILE")
+
+# Launch Modelsim simulation
+print ("Starting simulation...")
+process = subprocess.call(["vsim", "-c", "-do", "compileSingle.do"])
+print ("Simulation completed")
+
+#calcolo dei valori attesi ed analisi degli errori
+computeSingle(wFloat , inputFloatReal, inputFloatImag, resTb)
+
+ext=input('Premi per uscire')\end{lstlisting}\subsection{computeFFT.py}
+\begin{lstlisting}[language=Python]
+import sys
+sys.path.append("..")
+
+import numpy as np
+from scipy.fft import fft
+
+def computeFFT(fileInput,fileResult,fileLog,fileResFloat,fileResTbFloat):
+    
+    fileIn = open(fileInput,"r")
+    fileRes = open(fileResult,"r")
+    fileL = open(fileLog,"w")
+    fileResF = open(fileResFloat,"w")
+    fileResFFT = open(fileResTbFloat,"w")
+    values = np.array([0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0])
+    relativeError = ([])
+    meanErr=0.0
+    nErr=0
+    maxErr=0
+    
+    N = 2**10
+        
+    for line in fileIn:
+        
+        numbers = line.split(" ")
+        if len(numbers) == 18:
+            
+ 
+            numbers.pop(0)
+            for i in range(16):
+                
+                values[i] = float(numbers[i])
+            
+            #calcolo i valori attesi dell'fft
+            attended = fft(values)
+        
+            resLine = fileRes.readline()
+            results = resLine.split(" ")
+            if len(results) == 17:
+                results.pop(16)
+                resLine = ""
+                resFL = ""
+                relativeError = ([])
+                for i in range(16):
+                    print(attended[i], float(results[i])/N)
+                    relativeError.append(abs( ( attended[i].real - (float(results[i]) / N ))))
+                    resLine+=(str(attended[i].real)+" ")
+                    meanErr+=abs(attended[i].real - float(results[i]) / N)
+                    nErr +=1
+                    resFL += str(float(results[i]) / N) + " "
+                    if abs( ( attended[i].real - (float(results[i]) / N) )) > maxErr:
+                        maxErr = abs( ( attended[i].real - (float(results[i]) / N )))
+                    
+                fileResFFT.write(resLine+"\n")
+                fileResF.write(resFL+"\n")
+            resLine = fileRes.readline()
+            results = resLine.split(" ")
+            if len(results) == 17:
+                results.pop(16)
+                resLine = ""
+                resFL = ""
+                relativeError = ([])
+                for i in range(16):
+                
+                    print(attended[i].imag, float(results[i])/N)
+                    relativeError.append( ( attended[i].imag - (float(results[i]) / N ) ))
+                    resLine+=(str(attended[i].imag)+" ")
+                    meanErr+=abs(attended[i].imag - float(results[i]) / N)
+                    nErr+=1
+                    resFL += str(float(results[i]) / N) + " "
+                    if abs( ( attended[i].imag - (float(results[i]) / N) )) > maxErr:
+                        maxErr = abs( ( attended[i].imag - (float(results[i]) / N) ))
+                fileResFFT.write(resLine+"\n")
+            
+                fileResF.write(resFL+"\n")
+                resLine = ""
+
+    meanErr /=nErr
+    attErr = (2**(-9))
+    fileL.write("Errore massimo: "+str(maxErr)+'\n')
+    fileL.write("Errore medio: "+str(meanErr)+'\n')
+    fileL.write("Rapporto tra errore ottenuto ed atteso: "+str(maxErr/attErr)+'\n')\end{lstlisting}\subsection{computeSingle.py}
+\begin{lstlisting}[language=Python]
+def updateMaxErr(max,err):
+    
+    if err > max:
+        
+        return err
+    
+    else:
+        
+        return max
+    
+    
+
+
+
+def computeSingle(inWName,inRName,inIName, resName):
+    
+    fileInW = open(inWName,"r")
+    fileInR = open(inRName,"r")
+    fileInI = open(inIName,"r")
+    fileRes = open(resName,"r")
+    fileTable = open('singleTable.txt','w')
+    fileLog = open('logSingle.txt','w')
+    convFact = 2**17
+    
+    totErr = 0.0
+    nErr = 0
+    meanErr = 0
+    maxErr = 0
+    fileTable.write('\\begin{center}\n\\begin{tabular}{||c c c c c c c||}\n\\hline\nA & B & W & A\'att & A\' & B\'att & B\' \\\\ [0.5ex]\n\\hline\\hline\n')
+    for lineW in fileInW:
+    
+        inW = lineW.split(" ")
+        Wr = float(inW[0])
+        Wi = float(inW[1])
+        fileInI.seek(0)
+        
+        for lineI in fileInI:
+        
+            fileInR.seek(0)
+        
+            inI = lineI.split(" ")
+            Ai = float(inI[0])
+            Bi = float(inI[1])
+            for lineR in fileInR:
+            
+                inR = lineR.split(" ")
+                
+                Ar = float(inR[0])
+                Br = float(inR[1])
+                
+                resR = fileRes.readline().split(" ")
+                ArRes = float(resR[0])/convFact
+                BrRes = float(resR[1])/convFact
+                
+                resI = fileRes.readline().split(" ")
+                AiRes = float(resI[0])/convFact
+                BiRes = float(resI[1])/convFact
+                
+                ArAtt = Ar + Br*Wr - Bi*Wi
+                BrAtt = Ar - Br*Wr + Bi*Wi
+                AiAtt = Ai + Br*Wi + Bi*Wr
+                BiAtt = Ai - Br*Wi - Bi*Wr
+                
+                err = abs(ArAtt - ArRes)
+                totErr += err
+                maxErr = updateMaxErr(maxErr, err)
+                
+                err = abs(BrAtt - BrRes)
+                totErr += err
+                maxErr = updateMaxErr(maxErr, err)
+                
+                
+                err = abs(AiAtt - AiRes)
+                totErr += err
+                maxErr = updateMaxErr(maxErr, err)
+                
+                
+                err = abs(BiAtt - BiRes)
+                totErr += err
+                maxErr = updateMaxErr(maxErr, err)
+                
+                nErr += 4
+                
+                #print('errore massimo:',maxErr)
+                #print('errore medio', totErr/nErr)
+                #print('errore massimo su massimo possibile', maxErr/(2**17))            
+                
+                
+                
+                fileTable.write(str(Ar)+' '+str(Ai)+'j&'+str(Br)+' '+str(Bi)+'j&'+str(Wr)+' '+str(Wi)+'j&'+str(ArAtt)+' '+str(AiAtt)+'j&'+str(ArRes)+' '+str(AiRes)+'j&'+str(BrAtt)+' '+str(BiAtt)+'j&'+str(BrRes)+' '+str(BiRes)+'j&\n\\hline\n')
+                #print(inW, inI, inR, resI, resR)
+    meanErr = totErr / nErr
+        
+    fileLog.write("Errore massimo: "+str(maxErr)+'\n')
+    fileLog.write("Errore medio: "+str(meanErr)+'\n')
+    fileLog.write("Rapporto tra errore ottenuto ed atteso: "+str(maxErr/(2**17))+'\n')
+            
+    fileTable.write('\\end{tabular}\\end{center}')\end{lstlisting}\subsection{dataConversion.py}
+\begin{lstlisting}[language=Python]
+
+N = 19
+def TransformToBin(val):
+    floatVal = val * (2 ** N)
+    intVal = int(round(floatVal))
+    if intVal >= 2 ** 19:
+        intVal -= 1
+        
+    if intVal <= -2**19:
+        intVal += 1
+        
+    if intVal < 0:
+        intVal = (intVal ^ ((2**20)-1)) +1         
+    return intVal
+    
+
+def convertTo2C(intName,twoCName):
+    
+    try:
+    #apri file
+    #"butterflyGreatData.txt"
+        fileReader = open(intName, "r")
+        #"butterflySignedData.txt"
+        fileWriter = open(twoCName, "w")
+        for line in fileReader:
+            listVal = line.split()
+            for i in listVal:
+                
+                retVal = TransformToBin(float(i))
+                
+                if str(format(retVal, "020b"))[0] == '-': 
+                    fileWriter.write(format(retVal, "020b")[1:] + " ")
+                else:
+                    fileWriter.write(format(retVal, "020b") + " ")
+    
+            fileWriter.write("\n")
+        fileReader.close()
+        fileWriter.close()
+    
+    
+    except Exception as e:
+        print(e)\end{lstlisting}\subsection{inputGen.py}
+\begin{lstlisting}[language=Python]
+import random
+import math
+
+def generateInputs(fileName,mode):
+    #"butterfly2CData.txt"
+    fileOut = open(fileName,"w")
+
+    N = 10000
+
+    if mode == "random":
+
+        #genero N righe di 16 valori casuali tra -0.5 e 0.5 
+
+        for _ in range(N):
+    
+            values = [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+
+            for i in values:
+        
+                i = (random.random()-0.5)
+                fileOut.write(" "+str(i))
+        
+            fileOut.write(" \n")
+        
+        
+def generateW(fileName):
+    
+    #creo i w seguendo le formule della teoria dell'fft
+    fIn = open(fileName,"w")
+    for m in range(0,17):
+        WR = math.cos((math.pi/8)*m)
+        WI = -math.sin((math.pi/8)*m)
+        fIn.write(str(WR)+" "+str(WI)+" \n")
+
+def generateCouples(fileName,N):
+    
+    
+    fileOut = open(fileName,"w")
+    couple = [-1.0,-1.0]
+    
+    #salvo nel file le coppie di valori float per la singola butterfly
+    #le coppie sono le combinazioni dei numeri tra -1 ed 1 con un passo di 2**(-N)
+    
+    for _ in range(2**(N+1)):
+        
+        couple[1] = -1.0
+        
+        for _ in range(2**(N+1)):
+            
+            couple[1] += 2**(-N)
+            fileOut.write(str(couple[0])+' '+str(couple[1])+' \n')
+            
+        couple[0] += 2**(-N)
+    
+    \end{lstlisting}\subsection{listatiLatex.py}
+\begin{lstlisting}[language=Python]
+import os
+
+ext = '.py'
+language='Python'
+fileOut = open('listatiLatex.txt','w')
+for file in os.listdir():
+
+    if file.endswith(ext):
+    
+        fileIn = open(file,'r')
+    
+        fileOut.write('\\subsection{'+file+'}\n\\begin{lstlisting}[language='+language+']\n')
+    
+        for line in fileIn:
+        
+            fileOut.write(line)
+        
+        fileOut.write('\\end{lstlisting}')
+        fileIn.close()
+fileOut.close()\end{lstlisting}\subsection{tableGen.py}
+\begin{lstlisting}[language=Python]
+fileTable = open('latexTable.txt','w')
+
+fileInput = open('esempiZamboni.txt','r')
+fileAttended = open('butterfly16x16fftFloatResults.txt','r')
+fileResults = open('butterfly16x16tbFloatResults.txt','r')
+
+    
+for lineIn in fileInput:
+    fileTable.write('\\begin{center}\n\\begin{tabular}{||c c c||}\n\\hline\nInput & Atteso & Risultato \\\\ [0.5ex]\n\\hline\\hline\n')
+    cleanLineIn = lineIn[:-2]
+        
+    dataIn = cleanLineIn.split(' ')
+        
+    lineAtt = fileAttended.readline()[:-2]
+    dataAttReal = lineAtt.split(' ')
+        
+    lineAtt = fileAttended.readline()[:-2]
+    dataAttImag = lineAtt.split(' ')
+        
+    lineRes = fileResults.readline()[:-2]
+    dataResReal = lineRes.split(' ')
+        
+    lineRes = fileResults.readline()[:-2]
+    dataResImag = lineRes.split(' ')
+        
+    for i in range(16):
+        
+        fileTable.write(dataIn[i+1]+ '&'+dataAttReal[i]+' '+dataAttImag[i] +'j&'+dataResReal[i]+' '+ dataResImag[i]+ 'j&\n\\hline\n')
+        
+    fileTable.write('\\end{tabular}\\end{center}')
+    
+\end{lstlisting}

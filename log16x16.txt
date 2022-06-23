@@ -1,0 +1,3 @@
+Errore massimo: 9.75963716766115e-05
+Errore medio: 2.1919293552266938e-05
+Rapporto tra errore ottenuto ed atteso: 0.7995094767748014

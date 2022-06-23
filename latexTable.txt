@@ -1,0 +1,301 @@
+\begin{center}
+\begin{tabular}{||c c c||}
+\hline
+Input & Atteso & Risultato \\ [0.5ex]
+\hline\hline
+-0.5&-8.0 -0.0j&-8.0 0.0j&
+\hline
+-0.5&0.0 0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+\end{tabular}\end{center}\begin{center}
+\begin{tabular}{||c c c||}
+\hline
+Input & Atteso & Risultato \\ [0.5ex]
+\hline\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+0&0.0 0.0j&0.0 0.0j&
+\hline
+0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+0&0.0 0.0j&0.0 0.0j&
+\hline
+-0.5&-4.0 0.0j&-4.0 0.0j&
+\hline
+0&0.0 0.0j&0.0 0.0j&
+\hline
+0.5&0.0 0.0j&0.0 0.0j&
+\hline
+0&0.0 0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+0&0.0 -0.0j&0.0 0.0j&
+\hline
+0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+0&0.0 -0.0j&0.0 0.0j&
+\hline
+-0.5&-4.0 -0.0j&-4.0 0.0j&
+\hline
+0&0.0 -0.0j&0.0 0.0j&
+\hline
+0.5&0.0 0.0j&0.0 0.0j&
+\hline
+0&0.0 -0.0j&0.0 0.0j&
+\hline
+\end{tabular}\end{center}\begin{center}
+\begin{tabular}{||c c c||}
+\hline
+Input & Atteso & Risultato \\ [0.5ex]
+\hline\hline
+0.5&0.5 -0.0j&0.5 0.0j&
+\hline
+0&0.5 0.0j&0.5 0.0j&
+\hline
+0&0.5 -0.0j&0.5 0.0j&
+\hline
+0&0.5 0.0j&0.5 0.0j&
+\hline
+0&0.5 0.0j&0.5 0.0j&
+\hline
+0&0.5 0.0j&0.5 0.0j&
+\hline
+0&0.5 0.0j&0.5 0.0j&
+\hline
+0&0.5 0.0j&0.5 0.0j&
+\hline
+0&0.5 -0.0j&0.5 0.0j&
+\hline
+0&0.5 -0.0j&0.5 0.0j&
+\hline
+0&0.5 -0.0j&0.5 0.0j&
+\hline
+0&0.5 -0.0j&0.5 0.0j&
+\hline
+0&0.5 -0.0j&0.5 0.0j&
+\hline
+0&0.5 -0.0j&0.5 0.0j&
+\hline
+0&0.5 0.0j&0.5 0.0j&
+\hline
+0&0.5 -0.0j&0.5 0.0j&
+\hline
+\end{tabular}\end{center}\begin{center}
+\begin{tabular}{||c c c||}
+\hline
+Input & Atteso & Risultato \\ [0.5ex]
+\hline\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 0.0j&0.0 0.0j&
+\hline
+0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+0.5&0.0 0.0j&0.0 0.0j&
+\hline
+-0.5&-4.0 4.0j&-4.0 4.0j&
+\hline
+-0.5&0.0 0.0j&0.0 0.0j&
+\hline
+0.5&0.0 0.0j&0.0 0.0j&
+\hline
+0.5&0.0 0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+-0.5&-4.0 -4.0j&-4.0 -4.0j&
+\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+0.5&0.0 0.0j&0.0 0.0j&
+\hline
+0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+\end{tabular}\end{center}\begin{center}
+\begin{tabular}{||c c c||}
+\hline
+Input & Atteso & Risultato \\ [0.5ex]
+\hline\hline
+0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+0.5&1.0 -5.027339492125848j&1.0 -5.02734375j&
+\hline
+0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+0.5&1.0 -1.496605762665489j&1.0 -1.49658203125j&
+\hline
+0.5&0.0 0.0j&0.0 0.0j&
+\hline
+0.5&1.0 -0.6681786379192987j&1.0 -0.668212890625j&
+\hline
+0.5&0.0 0.0j&0.0 0.0j&
+\hline
+0.5&1.0 -0.19891236737965823j&1.0 -0.19891357421875j&
+\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+-0.5&1.0 0.19891236737965823j&1.0 0.19891357421875j&
+\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+-0.5&1.0 0.6681786379192987j&1.0 0.66815185546875j&
+\hline
+-0.5&0.0 -0.0j&0.0 0.0j&
+\hline
+-0.5&1.0 1.496605762665489j&1.0 1.49658203125j&
+\hline
+-0.5&0.0 0.0j&0.0 0.0j&
+\hline
+-0.5&1.0 5.027339492125848j&1.0 5.02734375j&
+\hline
+\end{tabular}\end{center}\begin{center}
+\begin{tabular}{||c c c||}
+\hline
+Input & Atteso & Risultato \\ [0.5ex]
+\hline\hline
+0&0.365 -0.0j&0.364990234375 0.0j&
+\hline
+0&-0.365 0.0j&-0.364990234375 0.0j&
+\hline
+0&0.365 -0.0j&0.364990234375 0.0j&
+\hline
+0&-0.365 0.0j&-0.364990234375 0.0j&
+\hline
+0&0.365 0.0j&0.364990234375 0.0j&
+\hline
+0&-0.365 0.0j&-0.364990234375 0.0j&
+\hline
+0&0.365 0.0j&0.364990234375 0.0j&
+\hline
+0&-0.365 0.0j&-0.364990234375 0.0j&
+\hline
+0.365&0.365 -0.0j&0.364990234375 0.0j&
+\hline
+0&-0.365 -0.0j&-0.364990234375 0.0j&
+\hline
+0&0.365 -0.0j&0.364990234375 0.0j&
+\hline
+0&-0.365 -0.0j&-0.364990234375 0.0j&
+\hline
+0&0.365 -0.0j&0.364990234375 0.0j&
+\hline
+0&-0.365 -0.0j&-0.364990234375 0.0j&
+\hline
+0&0.365 0.0j&0.364990234375 0.0j&
+\hline
+0&-0.365 -0.0j&-0.364990234375 0.0j&
+\hline
+\end{tabular}\end{center}\begin{center}
+\begin{tabular}{||c c c||}
+\hline
+Input & Atteso & Risultato \\ [0.5ex]
+\hline\hline
+1&16.0 -0.0j&15.99993896484375 0.0j&
+\hline
+1&0.0 0.0j&0.0 0.0j&
+\hline
+1&0.0 -0.0j&0.0 0.0j&
+\hline
+1&0.0 0.0j&0.0 0.0j&
+\hline
+1&0.0 0.0j&0.0 0.0j&
+\hline
+1&0.0 0.0j&0.0 0.0j&
+\hline
+1&0.0 0.0j&0.0 0.0j&
+\hline
+1&0.0 0.0j&0.0 0.0j&
+\hline
+1&0.0 -0.0j&0.0 0.0j&
+\hline
+1&0.0 -0.0j&0.0 0.0j&
+\hline
+1&0.0 -0.0j&0.0 0.0j&
+\hline
+1&0.0 -0.0j&0.0 0.0j&
+\hline
+1&0.0 -0.0j&0.0 0.0j&
+\hline
+1&0.0 -0.0j&0.0 0.0j&
+\hline
+1&0.0 0.0j&0.0 0.0j&
+\hline
+1&0.0 -0.0j&0.0 0.0j&
+\hline
+\end{tabular}\end{center}\begin{center}
+\begin{tabular}{||c c c||}
+\hline
+Input & Atteso & Risultato \\ [0.5ex]
+\hline\hline
+-1&-16.0 -0.0j&-15.99993896484375 0.0j&
+\hline
+-1&0.0 0.0j&0.0 0.0j&
+\hline
+-1&0.0 -0.0j&0.0 0.0j&
+\hline
+-1&0.0 0.0j&0.0 0.0j&
+\hline
+-1&0.0 0.0j&0.0 0.0j&
+\hline
+-1&0.0 0.0j&0.0 0.0j&
+\hline
+-1&0.0 0.0j&0.0 0.0j&
+\hline
+-1&0.0 0.0j&0.0 0.0j&
+\hline
+-1&0.0 -0.0j&0.0 0.0j&
+\hline
+-1&0.0 -0.0j&0.0 0.0j&
+\hline
+-1&0.0 -0.0j&0.0 0.0j&
+\hline
+-1&0.0 -0.0j&0.0 0.0j&
+\hline
+-1&0.0 -0.0j&0.0 0.0j&
+\hline
+-1&0.0 -0.0j&0.0 0.0j&
+\hline
+-1&0.0 0.0j&0.0 0.0j&
+\hline
+-1&0.0 -0.0j&0.0 0.0j&
+\hline
+\end{tabular}\end{center}\begin{center}
+\begin{tabular}{||c c c||}
+\hline
+Input & Atteso & Risultato \\ [0.5ex]
+\hline\hline

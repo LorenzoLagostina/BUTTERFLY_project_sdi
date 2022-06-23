@@ -1,0 +1,3738 @@
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
+Errore massimo: 3.814697265625e-06
+Errore medio: 0
+Rapporto tra errore ottenuto ed atteso: 1.0
